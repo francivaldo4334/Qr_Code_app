@@ -1,16 +1,16 @@
 <resources>
-    <string name="app_name">Qr Code</string>
-    <string name="edit">Edit</string>
-    <string name="scan">Scan</string>
-    <string name="list">List</string>
-    <string name="no_history">no history</string>
+    <string name="app_name">Qr Master</string>
+    <string name="edit">Editar</string>
+    <string name="scan">Escanear</string>
+    <string name="list">Lista</string>
+    <string name="no_history">sem histórico</string>
     <string name="insira_um_texto">Insira um texto...</string>
-    <string name="result_qrcode">Result QrCode</string>
-    <string name="copy_to_transfer_place">Copy to transfer place.</string>
-    <string name="error_message">Error: Ocorreu um erro ao obter o resultado</string>
+    <string name="result_qrcode">Resultado do QrCode</string>
+    <string name="copy_to_transfer_place">Copiar para área de transferência.</string>
+    <string name="error_message">Erro: Ocorreu um erro ao obter o resultado</string>
     <string name="escanear">Escanear</string>
     <string name="ok">Ok</string>
-    <string name="o_texto_esta_invalido">O texto esta invalido!</string>
+    <string name="o_texto_esta_invalido">O texto está inválido!</string>
     <string name="deseja_excluir_este_item">Deseja excluir este item?</string>
     <string name="cancelar">Cancelar</string>
     <string name="sim">Sim</string>
